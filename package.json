@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ardianreiss/simple-evm-faucet": "1.1.0",
     "axios": "^0.21.4",
     "dotenv": "^10.0.0",
     "sharp": "^0.29.1",
